@@ -1,7 +1,7 @@
 # How to run this project
 
 ## Create `.env` file
-Copy the .env.example file, rename it to `.env` and specify your own JWT secret.
+Copy the `.env.example` file, rename it to `.env` and specify your own JWT secret.
 
 ## Run MongoDB
 
